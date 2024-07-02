@@ -1,4 +1,4 @@
-# Server Side API, Task Board.
+# Third-Party API, Task Board.
 
 ## Description
 GIVEN a task board to manage a project
